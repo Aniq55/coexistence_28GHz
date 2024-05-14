@@ -12,13 +12,15 @@ Our codebase is organized into the following directories:
 
 If you find this code or the associated research paper useful for your work, please cite our paper:
 ```
-@article{rahman2023coexistence,
-  title={Coexistence of Terrestrial and Satellite Networks in the 28 GHz Band},
-  author={Rahman, Aniq Ur and Kishk, Mustafa A and Alouini, Mohamed-Slim},
-  journal={IEEE Transactions on Aerospace and Electronic Systems},
+@ARTICLE{10221681,
+  author={Rahman, Aniq Ur and Kishk, Mustafa A. and Alouini, Mohamed-Slim},
+  journal={IEEE Transactions on Aerospace and Electronic Systems}, 
+  title={Coexistence of Terrestrial and Satellite Networks in the 28-GHz Band}, 
   year={2023},
-  publisher={IEEE}
-}
+  volume={59},
+  number={6},
+  pages={8342-8354},
+  doi={10.1109/TAES.2023.3302819}}
 ```
 
 If you find any bugs in the code, please feel free to open a new `issue` or contact us by email.
